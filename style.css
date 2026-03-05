@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
